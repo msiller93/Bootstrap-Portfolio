@@ -1,0 +1,156 @@
+.navbar-brand {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+
+.container {
+    width: 70%;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin:15px;
+    padding-bottom:30px;
+    margin-right: auto;
+    margin-left: auto; 
+    background-color: white;
+}
+
+    body {
+        background: url("../images/gaming-pattern.png");
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+        font-size: 18px;
+        line-height: 34px;
+        color: #777777;
+    }
+    
+    h1 { 
+        color:#4aaaa5 ;
+        margin:10px;
+        font-family: 'Times New Roman', Times, serif}
+       a1 {  background-color: #4aaaa5;
+      margin-left:60px;
+      padding:60px;
+      height:45px;
+    }
+
+    
+    .container {
+    width: 70%;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin:15px;
+    padding-bottom:30px;
+    margin-right: auto;
+    margin-left: auto; 
+    background-color: white;
+}
+
+hr { 
+    height:10px;
+    }
+
+      footer {
+            font-size: 12px;
+            color: #ffffff;
+            color: #cccccc;
+            text-align: center;
+            background: #666666;
+            border-top: 8px solid #4aaaa5;
+            margin-top:50px;
+            width: 100%;
+            margin-bottom:auto;
+      }
+
+
+      p {
+          margin:-18px;
+          padding-top: 0px;
+          color:gray;
+        }
+
+
+   /* Contact Page */
+   
+.input-fields {
+    margin: 0 auto;
+    max-width: 800px;}
+    input[type=submit] {
+    background-color:#4aaaa5;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 15px;
+    margin-top: 2%;
+    margin-right:45%; 
+    margin-left:0%;
+        }
+
+#fname {
+    color: gray;
+    margin-top:3%;
+    margin-bottom: 3%;
+    width: 90%;
+}
+
+#email{
+    margin-bottom: 3%;
+    margin-top: 3%;
+    color:black;
+    width: 90%;
+   }
+
+#message {
+    margin-left: 0%;
+    width: 90%;
+    margin-top:3%;
+    padding-top:0px;
+    padding-top:0%;
+    padding-bottom:0%;
+    color:gray;
+    }
+
+    
+#nameBox{
+    margin-bottom: 5%;
+}
+
+/* Portfolio */
+
+.img3 , .img4 , .img5  {
+    padding-top:15px;
+
+}
+
+.img1, .img3, .img5 { 
+        height: 250px;
+        width: 300px;  
+    }
+
+.img2 { 
+        height: 250px;
+        width: 300px;  
+    }
+    
+.img3 {
+    margin-left: 15px;
+} 
+
+.img4 { 
+        height: 250px;
+        width: 300px;  
+
+    }
+
+.img5 {
+    margin-left: 30px;
+}
+
+
+
+
+
+
+
